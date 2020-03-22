@@ -134,4 +134,11 @@ footer p {
 }
 .fa-heart {
 	color: rgb(214, 103, 103);
+	animation: heart 1.5s alternate infinite;
+}
+
+@keyframes heart {
+	to {
+		transform: scale(1.4);
+	}
 }
