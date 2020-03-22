@@ -1,0 +1,195 @@
+[
+	{
+		"question": "What of the following statements is correct regarding access control list types and ranges?",
+		"choice1": "A basic ACL value ranges from 1000 - 2999",
+		"choice2": "An advanced ACL value ranges from 3000 - 4000",
+		"choice3": "A layer 2 ACL value ranges from 4000 - 4999",
+		"choice4": "An interface ACL value ranges 1000 - 2000",
+		"answer": 3
+	},
+
+	{
+		"question": "Which of the following parameters is not used by Advanced ACL?",
+		"choice1": "Source interface",
+		"choice2": "Destination port number",
+		"choice3": "Protocol number",
+		"choice4": "Time - range",
+		"answer": 1
+	},
+	{
+		"question": "Which of the following parameters can be used together with the 'ping' command to specify the sender address of an echo request message?",
+		"choice1": "s",
+		"choice2": "n",
+		"choice3": "d",
+		"choice4": "a",
+		"answer": 4
+	},
+	{
+		"question": "UDP is connectonless oriented, which of the following must be used in order to ensure reliability?",
+		"choice1": "Internet Protocol",
+		"choice2": "Applicaton Layer Protocol",
+		"choice3": "Network Layer Protocol",
+		"choice4": "Transmission Control Protocol",
+		"answer": 2
+	},
+	{
+		"question": "Which of the following entries is not included in the routng table?",
+		"choice1": "source address",
+		"choice2": "next hop",
+		"choice3": "destnaton address",
+		"choice4": "cost",
+		"answer": 1
+	},
+	{
+		"question": "An administrator wishes to manage the router in the remote branch office, which method can be used ?",
+		"choice1": "Console Connection",
+		"choice2": "FTP",
+		"choice3": "Telnet",
+		"choice4": "DHCP",
+		"answer": 3
+	},
+	{
+		"question": "The IPv6 address achitecture does not include which of the following address types?",
+		"choice1": "unicast",
+		"choice2": "multicast",
+		"choice3": "broadcast",
+		"choice4": "anycast",
+		"answer": 3
+	},
+	{
+		"question": "Which of the following technologies can allow a host with IP address 10.0.0.1 to access the internet?",
+		"choice1": "Statc route",
+		"choice2": "Dynamic route",
+		"choice3": "Route import",
+		"choice4": "NAT",
+		"answer": 4
+	},
+	{
+		"question": "OSPF allows for “multple” processes.By default, OSPF selects a process whose number is()",
+		"choice1": 0,
+		"choice2": 1,
+		"choice3": 10,
+		"choice4": 100,
+		"answer": 2
+	},
+	{
+		"question": "The protocol data unit(PDU) for the application layer in the Internet stack is",
+		"choice1": "Segment",
+		"choice2": "Datagram",
+		"choice3": "Frame",
+		"choice4": "Message",
+		"answer": 4
+	},
+	{
+		"question": "Which of the following transport layer protocolss is used to support electronic mail?",
+		"choice1": "TCP",
+		"choice2": "IP",
+		"choice3": "SMTP",
+		"choice4": "UDP",
+		"answer": 1
+	},
+	{
+		"question": "Which of the following is false with respect to TCP?",
+		"choice1": "Connection-oriented",
+		"choice2": "Process-to-process",
+		"choice3": "Transport layer protocol",
+		"choice4": "Unreliable",
+		"answer": 4
+	},
+	{
+		"question": "Which of the following is false with respect to UDP?",
+		"choice1": "Connection-oriented",
+		"choice2": "Unreliable",
+		"choice3": "Transport layer protocol",
+		"choice4": "Low overhead",
+		"answer": 1
+	},
+	{
+		"question": "Which type of Ethernet framing is used for TCP/IP and DEC net?",
+		"choice1": "Ethernet 802.3",
+		"choice2": "Ethernet 802.2",
+		"choice3": "Ethernet II",
+		"choice4": "Ethernet SNAP",
+		"answer": 3
+	},
+	{
+		"question": "FTP server listens for connection on which port number?",
+		"choice1": 20,
+		"choice2": 21,
+		"choice3": 22,
+		"choice4": 23,
+		"answer": 2
+	},
+	{
+		"question": "HTTP client requests by establishing a __________ connection to a particular port on the server.",
+		"choice1": "User datagram protocol",
+		"choice2": "Transmission control protocol",
+		"choice3": "Border gateway protocol",
+		"choice4": "Domain host control protocol",
+		"answer": 2
+	},
+	{
+		"question": "Which protocol assigns IP address to the client connected in the internet?",
+		"choice1": "DHCP",
+		"choice2": "IP",
+		"choice3": "RPC",
+		"choice4": "RSVP",
+		"answer": 1
+	},
+	{
+		"question": "The size of an IP address in IPv6 is _________",
+		"choice1": "32 bits",
+		"choice2": "64 bits",
+		"choice3": "128 bits",
+		"choice4": "265 bits",
+		"answer": 3
+	},
+	{
+		"question": "Open Shortest Path First (OSPF) is also called as _____________",
+		"choice1": "Link state protocol",
+		"choice2": "Error-correction protocol",
+		"choice3": "Routing information protocol",
+		"choice4": "Border gateway protocol",
+		"answer": 1
+	},
+	{
+		"question": "The computation of the shortest path in OSPF is usually done by ____________",
+		"choice1": "Bellman-ford algorithm",
+		"choice2": "Routing information protocol",
+		"choice3": "Dijkstra’s algorithm",
+		"choice4": "Distance vector routing",
+		"answer": 3
+	},
+	{
+		"question": "Which of the following routing algorithms can be used for network layer design?",
+		"choice1": "shortest path algorithm",
+		"choice2": "distance vector routing",
+		"choice3": "link state routing",
+		"choice4": "all of the mentioned",
+		"answer": 4
+	},
+	{
+		"question": "Which of the following tasks is not done by data link layer?",
+		"choice1": "framing",
+		"choice2": "error control",
+		"choice3": "flow control",
+		"choice4": "channel coding",
+		"answer": 4
+	},
+	{
+		"question": "Which connector does Shielded Twisted Pair Cable use?",
+		"choice1": "BNC",
+		"choice2": "RJ-11",
+		"choice3": "RJ-45",
+		"choice4": "RJ-69",
+		"answer": 3
+	},
+	{
+		"question": "After obtaining the IP address, to prevent the IP conflict the client may use _________",
+		"choice1": "internet relay chat",
+		"choice2": "broader gateway protocol",
+		"choice3": "address resolution protocol",
+		"choice4": "none of the mentioned",
+		"answer": 3
+	}
+]
