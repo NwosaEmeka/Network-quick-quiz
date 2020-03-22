@@ -114,3 +114,24 @@ td {
 tbody tr:nth-child(even) {
 	background-color: #ccc;
 }
+
+footer {
+	position: absolute;
+	left: 50%;
+	bottom: 5px;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: blue;
+}
+a:hover {
+	opacity: 0.6;
+}
+footer p {
+	font-size: 1rem;
+	color: #333;
+}
+.fa-heart {
+	color: rgb(214, 103, 103);
+}
